@@ -180,6 +180,8 @@ Y añadió los cambios y lo subimos al repositorio.
 
 ### GIT LOG
 
+*Aquí he cambiado la variable core.pager para que funcione bien los ejercicios*
+
 1. Mira la página de (Git Book sobre los comandos git log)[https://git-scm.com/book/es/v2/Fundamentos-de-Git-Ver-el-Historial-de-Confirmaciones]
    
 2. Muestra los logs
